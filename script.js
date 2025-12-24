@@ -99,7 +99,7 @@ function animateValue(element, start, end, duration) {
 }
 
 // Console message para desenvolvedores
-console.log('%c🎰 Lucky Arena 🎰', 'font-size: 20px; font-weight: bold; color: #6c5ce7;');
-console.log('%cBem-vindo ao console do Lucky Arena!', 'font-size: 14px; color: #b8bcc8;');
-console.log('%cJogo com responsabilidade. 🎲', 'font-size: 12px; color: #6c757d;');
+console.log('%c🎮 LUCKY ARENA 🎮', 'font-size: 20px; font-weight: bold; color: #a855f7; text-shadow: 0 0 10px #06b6d4;');
+console.log('%cBem-vindo ao console do Lucky Arena!', 'font-size: 14px; color: #cbd5e1;');
+console.log('%cJogue com responsabilidade. 🎲', 'font-size: 12px; color: #64748b;');
 
