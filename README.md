@@ -1,19 +1,21 @@
 # 🎰 Lucky Arena
 
-## A Arena da Sorte no Brasil
+## Arena de Jogos de Entretenimento no Brasil
 
-Lucky Arena é uma plataforma revolucionária de jogos baseada em blockchain, onde a aleatoriedade é 100% verificável e transparente. Diversão, justiça e segurança garantidas pela tecnologia Chainlink VRF.
+Lucky Arena é uma plataforma inovadora de jogos de entretenimento baseada em blockchain, onde a aleatoriedade é 100% verificável e transparente. Diversão e segurança garantidas pela tecnologia Chainlink VRF.
 
 ## 🎮 Sobre o Projeto
 
-O Lucky Arena oferece uma arena completa de jogos, combinando jogos de sorte com aleatoriedade verificável e jogos simples para todos os gostos. Nossa missão é criar uma experiência de jogo justa, transparente e divertida, utilizando tecnologia blockchain de ponta.
+O Lucky Arena oferece uma arena completa de jogos de entretenimento, combinando jogos com aleatoriedade verificável e jogos simples para todos os gostos. Nossa missão é criar uma experiência de jogo justa, transparente e divertida, utilizando tecnologia blockchain de ponta.
+
+**⚠️ Importante**: Esta é uma plataforma de jogos de entretenimento. Todos os jogos são exclusivamente para fins de diversão. Moedas e recompensas são itens virtuais sem valor monetário real.
 
 ### Características Principais
 
 - **Aleatoriedade Verificável**: Utiliza Chainlink VRF para garantir resultados 100% aleatórios e auditáveis
-- **Transparência Total**: Todas as transações e resultados registrados na blockchain
+- **Transparência Total**: Todas as jogadas e resultados registrados na blockchain
 - **Variedade de Jogos**: Duelos automatizados, baús de tesouro, jogos de precisão e muito mais
-- **Sistema de Moedas**: Ecossistema completo de recompensas e NFTs
+- **Sistema de Recompensas Virtuais**: Ecossistema completo de moedas virtuais e NFTs
 - **Exclusivo para o Brasil**: Plataforma focada no público brasileiro
 
 ## 🚀 Tecnologias Utilizadas
@@ -25,10 +27,10 @@ O Lucky Arena oferece uma arena completa de jogos, combinando jogos de sorte com
 
 ## 📋 Como Funciona
 
-1. **Escolha Seu Jogo**: Entre na arena e escolha entre diversos jogos disponíveis
-2. **Faça Sua Aposta**: Configure sua aposta usando as moedas do jogo
+1. **Escolha Seu Jogo**: Entre na arena e escolha entre diversos jogos de entretenimento disponíveis
+2. **Inicie Sua Partida**: Use moedas virtuais para participar dos jogos
 3. **Aleatoriedade Verificável**: Chainlink VRF gera números verdadeiramente aleatórios
-4. **Receba Recompensas**: Resultados instantâneos e transparentes na blockchain
+4. **Receba Recompensas Virtuais**: Resultados instantâneos e transparentes na blockchain
 
 ## 🔒 Segurança e Transparência
 
@@ -54,9 +56,18 @@ O site é totalmente responsivo e funciona perfeitamente em:
 
 O site está configurado para deploy automático no GitHub Pages através do domínio `luckyarena.com.br`.
 
-## ⚠️ Importante
+## ⚠️ Aviso Legal
 
-Este projeto promove jogos de forma responsável. Lembre-se sempre de jogar com moderação.
+O Lucky Arena é uma plataforma de **jogos de entretenimento** baseada em blockchain. Todos os jogos disponíveis são exclusivamente para fins de entretenimento e diversão. As moedas e recompensas virtuais são itens digitais sem valor monetário real, destinados apenas ao uso dentro da plataforma.
+
+**Esta plataforma não oferece serviços de apostas ou jogos de azar com dinheiro real.** Todos os participantes devem ter 18 anos ou mais e usar a plataforma de forma responsável.
+
+### Jogos Responsáveis
+
+- Plataforma exclusiva para maiores de 18 anos
+- Todos os jogos são para entretenimento
+- Moedas e recompensas são virtuais, sem valor monetário real
+- Jogue com responsabilidade e moderação
 
 ## 📄 Licença
 
